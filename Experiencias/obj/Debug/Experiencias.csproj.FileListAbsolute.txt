@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Experiencias\Experiencias\bin\Debug\Experiencias.exe.config
+C:\temp\ws-vs2019\Experiencias\Experiencias\bin\Debug\Experiencias.exe
+C:\temp\ws-vs2019\Experiencias\Experiencias\bin\Debug\Experiencias.pdb
+C:\temp\ws-vs2019\Experiencias\Experiencias\obj\Debug\Experiencias.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Experiencias\Experiencias\obj\Debug\Experiencias.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Experiencias\Experiencias\obj\Debug\Experiencias.exe
+C:\temp\ws-vs2019\Experiencias\Experiencias\obj\Debug\Experiencias.pdb
